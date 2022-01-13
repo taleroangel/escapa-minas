@@ -1,0 +1,6 @@
+Guardar todos los archivos en la misma carpeta
+abrir main.asm en el simulador de MIPS
+Abrir un bitmap display con dirección 0x10000000 (global data)
+Ajustar display para un tamaño de 16x16 píxeles
+Conectar el bitmap display al simulador
+Ensamblar y correr main.asm
