@@ -28,6 +28,11 @@ Se hace uso del simulador MARS
 Una versión de MARS se encuentra en este repositorio 'MIPS.jar' pero puede ser descargado [haciéndo click aquí](http://courses.missouristate.edu/kenvollmar/mars/)
 
 ## Autores
+Programación:
 * Ángel Talero
 * Humberto Rueda
 * Juan David Robledo
+
+Gráficos y Audio:
+* Ángel Talero
+* Andrea García
